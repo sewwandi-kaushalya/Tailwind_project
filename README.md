@@ -2,7 +2,7 @@
 
 # 🌐 Tailwind CSS Website
 
-### Modern Responsive Website Built with Tailwind CSS
+### Modern frontend Website Built with Tailwind CSS
 
 A clean and modern website developed using **HTML5** and **Tailwind CSS** with a beautiful dark mode friendly UI design.
 
@@ -15,7 +15,7 @@ A clean and modern website developed using **HTML5** and **Tailwind CSS** with a
 
 ## 📖 About Project
 
-This project is a modern responsive website created using **Tailwind CSS**.  
+This project is a modern frontend website created using **Tailwind CSS**.  
 It focuses on clean UI design, and modern web development practices.
 
 ## Screenshot
